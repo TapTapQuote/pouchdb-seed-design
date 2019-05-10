@@ -14,7 +14,7 @@
     "deep-equal": "^1.0.1",
     "node-extend": "^0.2.0",
     "object-keys-map": "~1.0.1",
-    "object-map": "0.0.0"
+    "object-map": "1.0.2"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
